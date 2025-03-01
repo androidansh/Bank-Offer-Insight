@@ -113,8 +113,4 @@ These datasets were merged on `customer_id` to compute key metrics like total sp
 
 ---
 
-## How to Explore
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/BankOfferInsights.git
