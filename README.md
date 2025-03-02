@@ -11,7 +11,7 @@ Welcome to the **Bank Offer Insights Dashboard** project! This repository showca
 - [Dashboard Highlights](#dashboard-highlights)
 - [Key Insights](#key-insights)
 - [Technologies Used](#technologies-used)
-- [How to Explore](#how-to-explore)
+- [Screen Shots](#screen-shots)
 - [Conclusion](#conclusion)
 
 ---
@@ -112,7 +112,7 @@ These datasets were merged on `customer_id` to compute key metrics like total sp
 
 ---
 
-## How to Explore
+## Screen Shots
 
 ![Bank Offfer Insight-1](https://github.com/user-attachments/assets/913d0dc3-c990-42e8-81f3-1dcc05457f32)
 ![Bank Offfer Insight-2](https://github.com/user-attachments/assets/e8e4d481-9e48-432f-8c1d-070aef86ed10)
