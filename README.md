@@ -119,6 +119,6 @@ These datasets were merged on `customer_id` to compute key metrics like total sp
 
 ---
 
-##Conclusion
+## Conclusion
 
 This project demonstrates an end-to-end approach to data analysis and visualization in the banking domain. By integrating multiple data sources and deriving key performance indicators, the dashboard provides actionable insights for targeted bank offers. It highlights technical proficiency in data manipulation and visualization while also showcasing a strong understanding of business strategy in the financial sector.
