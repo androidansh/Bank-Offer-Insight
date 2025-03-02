@@ -1,0 +1,1 @@
+The fact_spend.rar file contains the fact_spend.csv file. Extract it to use on analysis.
