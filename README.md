@@ -13,7 +13,6 @@ Welcome to the **Bank Offer Insights Dashboard** project! This repository showca
 - [Technologies Used](#technologies-used)
 - [How to Explore](#how-to-explore)
 - [Conclusion](#conclusion)
-- [Contact](#contact)
 
 ---
 
@@ -32,10 +31,10 @@ The objective is to empower the bank with data-driven decision-making to enhance
 
 The project uses two main datasets:
 
-- **Customer Spending Data (`cust_spend`):**  
+- **Customer Spending Data (`fact_spends`):**  
   Contains transaction-level details such as `customer_id`, `month`, `category`, `payment_type`, and `spend`.
 
-- **Customer Details (`cust_details`):**  
+- **Customer Details (`dim_customers`):**  
   Includes demographic and financial information such as `customer_id`, `age_group`, `city`, `occupation`, `gender`, `marital_status`, and `avg_income`.
 
 These datasets were merged on `customer_id` to compute key metrics like total spend per customer, average spend per category, and income utilization ratios.
@@ -113,4 +112,13 @@ These datasets were merged on `customer_id` to compute key metrics like total sp
 
 ---
 
+## How to Explore
 
+![Bank Offfer Insight-1](https://github.com/user-attachments/assets/913d0dc3-c990-42e8-81f3-1dcc05457f32)
+![Bank Offfer Insight-2](https://github.com/user-attachments/assets/e8e4d481-9e48-432f-8c1d-070aef86ed10)
+
+---
+
+##Conclusion
+
+This project demonstrates an end-to-end approach to data analysis and visualization in the banking domain. By integrating multiple data sources and deriving key performance indicators, the dashboard provides actionable insights for targeted bank offers. It highlights technical proficiency in data manipulation and visualization while also showcasing a strong understanding of business strategy in the financial sector.
